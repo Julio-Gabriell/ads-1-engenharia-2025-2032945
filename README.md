@@ -15,6 +15,20 @@ As metodologias ágeis são uma forma de acelerar entregas de um determinado pro
 ### 📖 Manifesto Ágil  
 O Manifesto Ágil é um conjunto de princípios e valores que orienta o desenvolvimento de software. Ele surgiu em 2001 e revolucionou a forma como empresas e profissionais elaboram e gerenciam projetos. 
 
+Existem 12 tipos de metodologias ágeis sendo elas:
+- Valor
+- Flexibilidade
+- Frequência
+- União
+- Motivação
+- Comunicação
+- Funcionalidade
+- Sustentabilidade
+- Revisão
+- Simplicidade
+- Organização
+- Autoavaliação
+  
 ## 🏆 Scrum  
 Scrum é uma metodologia ágil de gestão de projetos que ajuda equipes a trabalharem de forma colaborativa para atingir um objetivo em comum.
 
@@ -76,3 +90,7 @@ O gerenciamento de tarefas fornece aos membros da equipe uma visão clara sobre 
  **Visibilidade**
 
 O gerenciamento de tarefas fornece aos membros da equipe uma visão clara sobre o progresso das tarefas e o status geral do projeto. Isso inclui atribuir responsabilidades às tarefas, promover a responsabilidade com um rastreador de tarefas pessoal e fornecer atualizações de status. A utilização de ferramentas visuais de acompanhamento do progresso, a definição de cronogramas e prazos concretos e a centralização das informações fornecem às equipes a transparência necessária para manter os projetos sob controle.
+
+### Jira:
+
+![image](https://github.com/user-attachments/assets/e2926fda-4389-42db-aff5-6f9e7992a0f2)
